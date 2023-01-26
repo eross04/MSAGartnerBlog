@@ -1,0 +1,2 @@
+# MSAGartnerBlog
+Blog for Gartner
